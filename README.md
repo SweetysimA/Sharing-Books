@@ -80,6 +80,9 @@ Deploy the current iteration of the system to a testing environment or, if ready
 <strong>ii.</strong>nEach iteration builds upon the previous one, incorporating feedback and adding new features.
 
 
+## Conclusion:
+
+In an iterative model, the cycle repeats until the project goals are achieved and stakeholders are satisfied with the product. Each iteration contributes to the overall improvement of the system, and feedback plays an effective and important role in guiding the development process.
 
 
 
