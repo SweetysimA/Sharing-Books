@@ -42,19 +42,19 @@ Here are the steps of an iterative model for sharing books among readers:
 <strong>ii.</strong> Priotizing features and functionalities for each iteration on their importance.
 
 ## 3.Designing: 
-   <strong>i.</strong> Desinging the architecture and user interface for sharing books.
+
+<strong>i.</strong> Desinging the architecture and user interface for sharing books.
 
 ## 4.Implementation:
-    Developing the functionalities outlined in the design phase.
+ Developing the functionalities outlined in the design phase.
 
 ## 5.Testing:
-     various levels, including unit testing, integration testing, and system 
-     testing.
+ Various levels, including unit testing, integration testing, and system testing.
 
 ## 6.Review and Evaluation:
-<strong>i.Review the implemented features within each iteration.</strong>
+<strong>i. Review the implemented features within each iteration.</strong>
 
-<strong>ii.Evaluate whether the functionality aligns with the initial requirements and if any adjustments are needed.</strong>
+<strong>ii. Evaluate whether the functionality aligns with the initial requirements and if any adjustments are needed.</strong>
    
 
 ## 7.Feedback Incorporation:
