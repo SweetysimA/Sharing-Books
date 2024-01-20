@@ -21,31 +21,41 @@ The development process of an iterative model is divided into small, repeatable 
 
 In an iterative model, the process starts with some of the software specifications and develops the first version of the software. After the first version, if there is a need to change the software, then a new version of the software is created with a new iteration. It will repeat until the deployment of the software.
 
+## STEPS OF THE ITERATIVE MODEL
+
 An iterative model of sharing books refers to a process where sharing and distributing books is done in a repetitive and incremental manner, with each iteration allowing for feedback and improvement. 
+
 Here are the steps of an iterative model for sharing books among readers:
-Below are the steps involved in an iterative model for sharing books among readers-
 
 ## 1. Identifying Requirements:
 
-  <strong>i.</strong> Gathering initial requirements which may involve discussions with stakeholders,potential users,and 
+    <strong>i.</strong> Gathering initial requirements which may involve discussions with stakeholders,potential users,and 
  other relevant parties.
      
-  <strong>ii.</strong> Identifying the basic features such as user registration,book cataloging,search capabilities,user reviews, and sharing options.
+    <strong>ii.</strong> Identifying the basic features such as user registration,book cataloging,search capabilities,user 
+ reviews, and sharing options.
 
 ## 2. Planning the iterations:
-   <strong>i.</strong> Breaking down the overall development into a series of smaller 
-   iterations.
+    
+    <strong>i.</strong> Breaking down the overall development into a series of smaller 
+    iterations.
    
-   <strong>ii.</strong>
+    <strong>ii.</strong>Priotizing features and functionalities for each iteration on their importance.
 
 ## 3.Designing: 
- <strong>ii.</strong> Desinging the architecture and user interface 
+   <strong>i.</strong> Desinging the architecture and user interface for sharing books.
 
 ## 4.Implementation:
+    Developing the functionalities outlined in the design phase.
 
 ## 5.Testing:
+    various levels, including unit testing, integration testing, and system 
+  testing.
 
 ## 6.Review and Evaluation:
+     Review the implemented features within each iteration.
+     Evaluate whether the functionality aligns with the initial requirements and 
+     if any adjustments are needed.
 
 ## 7.Feedback Incorporation:
 
