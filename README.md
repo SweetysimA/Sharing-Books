@@ -1,7 +1,4 @@
-
-
 # Sharing-Books
-
 
 ## Hello Sir
 ![New cover photo_page-0001](https://github.com/SweetysimA/Sharing-Books/assets/154395785/965bb1a1-9440-4269-a0b1-3a43fb9e5b00)
@@ -11,7 +8,7 @@
 In our modern technology, we are being addicted to the smart technologies, even when we want to read academics or story books, we use laptops, tabs, mobiles or etc. Sometimes it causes many health problems and also very tough to keep full attention while reading pdf files. If all the readers can share their books in such a platform where the other readers can get a chance to read those available books according to their choices, it will be very effective for them.
 ![1637147288_158060_url](https://github.com/SweetysimA/Sharing-Books/assets/154395785/a6d1bbb8-02de-474a-b62e-558aca76baaa)
 
-"Sharing-Books" among the readers is such kind of a software project which one gives us a great opportunity to gather knowledge without paying any cost.
+<strong>"Sharing-Books" </strong> among the readers is such kind of a software project which one gives us a great opportunity to gather knowledge without paying any cost.
 
 ## Applied SDLC Model:
 The development process of an iterative model is divided into small, repeatable cycles or iterations and each iteration includes phases such as planning, designing, building, and testing. As this model allows us to go back to the initial phases and see how the changes were made, <strong>Iterative Model</strong> could be the most suitable Software Development Life Cycle (SDLC) model for the <strong>"Book-Sharing"</strong> project. 
@@ -79,7 +76,7 @@ Deploy the current iteration of the system to a testing environment or, if ready
 ## 10.Iteration Repeats:
 
 <strong>i.</strong> Each iteration builds upon the previous one, incorporating feedback and adding new features.
-<strong>ii.</strong>Each iteration builds upon the previous one, incorporating feedback and adding new features.
+<strong>ii.</strong>nEach iteration builds upon the previous one, incorporating feedback and adding new features.
 
 
 
