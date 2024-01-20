@@ -1,24 +1,31 @@
 # Sharing-Books
 
 
+![cover photo](https://github.com/SweetysimA/Sharing-Books/assets/154395785/d390442d-e8c8-4b07-8af1-ff27a60da1b7)
+
 
 **_Hajee Mohammad Danesh Science and Technology University_**
 
  **Department of Computer Science and Engineering (CSE)**
 
+
 **Assignment of S/W Project Proposal for SE.**
+
 
 **Level -** 3 , **Semester-** I
 **Session** -2020
+
 **Course Code    :** CSE 305
 **Course Title   :** Software Engineering.
 
 
-**Submitted By** 	                         
+**Submitted By** 	 
+
 **Name :** Sweety Akter Sima       	       
 **Student Id :** 2002008		         
                                        
 **Submitted To**
+
 Pankaj Bhowmik
 Department of CSE, 
 HSTU
