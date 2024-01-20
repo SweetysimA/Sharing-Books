@@ -6,30 +6,27 @@
 
  **Department of Computer Science and Engineering (CSE)**
 
-
+**Assignment of S/W Project Proposal for SE.**
 
 **Level -** 3 , **Semester-** I
 **Session** -2020
-
-**Assignment of S/W Project Proposal for SE.**
-
 **Course Code    :** CSE 305
 **Course Title   :** Software Engineering.
 
 
+**Submitted By** 	                         
+**Name :** Sweety Akter Sima       	       
+**Student Id :** 2002008		         
+                                       
+**Submitted To**
+Pankaj Bhowmik
+Department of CSE, 
+HSTU
 
-**Submitted By ** 	                ** Submitted To**
-            
-Name : Sweety Akter Sima       	       Pankaj Bhowmik
-Student Id : 2002008		          Lecturer
-                                       Department of CSE, 
-                                             HSTU
+**Date of Submission**
+21 January,2024                     
 
-
-
-                        Date of Submission
-
-                        21 January,2024
+                        
 
 
 
