@@ -53,9 +53,9 @@ Here are the steps of an iterative model for sharing books among readers:
 
 ## 6.Review and Evaluation:
 
-<strong>i. Review the implemented features within each iteration.</strong>
+<strong>i.</strong> Review the implemented features within each iteration.
 
-<strong>ii. Evaluate whether the functionality aligns with the initial requirements and if any adjustments are needed.</strong>
+<strong>ii.</strong> Evaluate whether the functionality aligns with the initial requirements and if any adjustments are needed.
    
 
 ## 7.Feedback Incorporation:
