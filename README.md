@@ -2,35 +2,32 @@
 
 
 
-<strong>Hajee Mohammad Danesh Science and Technology University</strong>
+**_Hajee Mohammad Danesh Science and Technology University_**
 
-** **  _ _Department of Computer Science and Engineering (CSE)
-Level-3 , Semester-I
-Session -2020
+ **Department of Computer Science and Engineering (CSE)**
 
 
-
-Course Code     : CSE 305
-Course Title      : Software Engineering
-
-
-Assignment of S/W Project Proposal for SE.
+            **Level**-3 , **Semester**-I
+            **Session** -2020
 
 
+      **Course Code**    : CSE 305
+     **Course Title**    : Software 
 
-Submitted By  				Submitted To
+
+   Submitted By  		     Submitted To
             
 Name : Sweety Akter Sima       	      Pankaj Bhowmik
-               Student Id : 2002008						Lecturer
-Department of CSE, 
-HSTU
+Student Id : 2002008		         Lecturer
+                                          Department of CSE, 
+                                                HSTU
 
 
 
 
-Date of Submission
+                        Date of Submission
 
-21 January,2024
+                        21 January,2024
 
 
 
