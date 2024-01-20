@@ -13,4 +13,5 @@ The development process of an iterative model is divided into small, repeatable 
 
 
 In an iterative model, the process starts with some of the software specifications and develops the first version of the software. After the first version, if there is a need to change the software, then a new version of the software is created with a new iteration. It will repeat until the deployment of the software.
+<strong>bold text</strong>.
 
