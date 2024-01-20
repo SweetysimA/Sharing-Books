@@ -52,6 +52,7 @@ Here are the steps of an iterative model for sharing books among readers:
  Various levels, including unit testing, integration testing, and system testing.
 
 ## 6.Review and Evaluation:
+
 <strong>i. Review the implemented features within each iteration.</strong>
 
 <strong>ii. Evaluate whether the functionality aligns with the initial requirements and if any adjustments are needed.</strong>
@@ -59,11 +60,25 @@ Here are the steps of an iterative model for sharing books among readers:
 
 ## 7.Feedback Incorporation:
 
+<strong>i.</strong> Gather feedback from stakeholders and users.
+
+<strong>ii.</strong> Incorporate feedback into the next iteration, making improvements or adjustments as necessary.
+
+
 ## 8.Deployment:
+
+Deploy the current iteration of the system to a testing environment or, if ready, to a production environment.
+
 
 ## 9.Monitoring and Maintenance:
 
+<strong>i.</strong>
+
+<strong>i.</strong>
+
 ## 10.Iteration Repeats:
+
+<strong>i.</strong>
 
 
 
