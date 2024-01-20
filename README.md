@@ -7,5 +7,7 @@ In our modern technology, we are being addicted to the smart technologies, even 
 "Sharing-Books" among the readers is such kind of a software project which one gives us a great opportunity to gather knowledge without paying any cost.
 
 ## Applied SDLC Model:
-Iterative Model is the most suitable Software Development Life Cycle (SDLC) model for this project as this model allows us to go back to the initial phases and see how the changes were made. 
+ 
+In an Iterative Model, the development process is divided into small, repeatable cycles or iterations and each iteration includes phases such as planning, designing, building, and testing. As this model allows us to go back to the initial phases and see how the changes were made,Iterative Model could be the most suitable Software Development Life Cycle (SDLC) model for the project .
+This model starts with some of the software specifications and develops the first version of the software. After the first version, if there is a need to change the software, then a new version of the software is created with a new iteration. It will repeat until the deployment of the software.
 
