@@ -38,6 +38,7 @@ Here are the steps of an iterative model for sharing books among readers:
 ## 2. Planning the iterations:
     
 <strong>i.</strong> Breaking down the overall development into a series of smaller iterations.
+
 <strong>ii.</strong> Priotizing features and functionalities for each iteration on their importance.
 
 ## 3.Designing: 
@@ -51,9 +52,10 @@ Here are the steps of an iterative model for sharing books among readers:
      testing.
 
 ## 6.Review and Evaluation:
-     Review the implemented features within each iteration.
-     Evaluate whether the functionality aligns with the initial requirements and 
-     if any adjustments are needed.
+<strong>i.Review the implemented features within each iteration.</strong>
+
+<strong>ii.Evaluate whether the functionality aligns with the initial requirements and if any adjustments are needed.</strong>
+   
 
 ## 7.Feedback Incorporation:
 
