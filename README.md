@@ -17,9 +17,10 @@ In an iterative model, the process starts with some of the software specificatio
 Below are the steps involved in an iterative model for sharing books among readers-
 
 
-## 1.	Identifying Requirements:
+## 1. Requirements:
       •	Gather initial requirements for the book-sharing platform. This may involve discussions with stakeholders, potential users, and other relevant parties.
-      •	Define the basic features and functionalities expected from the platform, such as user registration, book cataloging, search capabilities, user reviews, and sharing          options.
+      •	Define the basic features and functionalities expected from the platform, such as user registration, book cataloging, search capabilities, user reviews, and sharing          options
+
       
 ## 2.	Planning the Iterations:
       •	Break down the overall development into a series of smaller iterations. Each iteration should deliver a working and potentially deployable subset of the complete             book-sharing platform.
