@@ -72,13 +72,14 @@ Deploy the current iteration of the system to a testing environment or, if ready
 
 ## 9.Monitoring and Maintenance:
 
-<strong>i.</strong>
+<strong>i.</strong> Monitor the deployed system for any issues or performance concerns.
 
-<strong>i.</strong>
+<strong>ii.</strong> Each iteration builds upon the previous one, incorporating feedback and adding new features.
 
 ## 10.Iteration Repeats:
 
-<strong>i.</strong>
+<strong>i.</strong> Each iteration builds upon the previous one, incorporating feedback and adding new features.
+<strong>ii.</strong>Each iteration builds upon the previous one, incorporating feedback and adding new features.
 
 
 
