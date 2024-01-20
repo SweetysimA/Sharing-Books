@@ -25,7 +25,9 @@ Here are the steps of an iterative model for sharing books among readers:
 Below are the steps involved in an iterative model for sharing books among readers-
 
 ## 1. Identifying Requirements:
-     <strong>i.</strong> Gathering initial requirements which may involve discussions with stakeholders,potential users,and other relevant parties.
+
+  <strong>i.</strong> Gathering initial requirements which may involve discussions with stakeholders,potential users,and 
+ other relevant parties.
      <strong>ii.</strong> Identifying the basic features such as user registration,book cataloging,search capabilities,user reviews, and sharing options.
 
 ## 2. Planning the iterations:
