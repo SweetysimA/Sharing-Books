@@ -1,3 +1,6 @@
+#
+![Uploading 1637147288_158060_url.jpeg…]()
+
 # Sharing-Books
 ## Hello Sir
 ![New cover photo_page-0001](https://github.com/SweetysimA/Sharing-Books/assets/154395785/965bb1a1-9440-4269-a0b1-3a43fb9e5b00)
@@ -14,11 +17,13 @@ The development process of an iterative model is divided into small, repeatable 
 
 In an iterative model, the process starts with some of the software specifications and develops the first version of the software. After the first version, if there is a need to change the software, then a new version of the software is created with a new iteration. It will repeat until the deployment of the software.
 
+An iterative model of sharing books refers to a process where sharing and distributing books is done in a repetitive and incremental manner, with each iteration allowing for feedback and improvement. 
+Here are the steps of an iterative model for sharing books among readers:
 Below are the steps involved in an iterative model for sharing books among readers-
 
 ## 1. Identifying Requirements:
-    <strong>i</strong> Gathering initial requirements which may involve discussions         with stakeholders,potential users,and other relevant parties.
-    <strong>ii</strong> Identifying the basic features such as user registration,book       cataloging,search capabilities,user reviews, and sharing options.
+   <strong>i.</strong> Gathering initial requirements which may involve discussions with stakeholders,potential users,and other relevant parties.
+   <strong>ii.</strong> Identifying the basic features such as user registration,book cataloging,search capabilities,user reviews, and sharing options.
 
 ## 2. Planning the iterations:
    <strong>i.</strong> Breaking down the overall development into a series of smaller 
