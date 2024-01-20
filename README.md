@@ -1,45 +1,11 @@
 # Sharing-Books
 
-
 ![cover photo](https://github.com/SweetysimA/Sharing-Books/assets/154395785/d390442d-e8c8-4b07-8af1-ff27a60da1b7)
-
-
-**_Hajee Mohammad Danesh Science and Technology University_**
-
- **Department of Computer Science and Engineering (CSE)**
-
-
-**Assignment of S/W Project Proposal for SE.**
-
-
-**Level -** 3 , **Semester-** I
-**Session** -2020
-
-**Course Code    :** CSE 305
-**Course Title   :** Software Engineering.
-
-
-**Submitted By** 	 
-
-**Name :** Sweety Akter Sima       	       
-**Student Id :** 2002008		         
-                                       
-**Submitted To**
-
-Pankaj Bhowmik
-Department of CSE, 
-HSTU
-
-**Date of Submission**
-21 January,2024                     
-
-                        
-
-
 
 ## INTRODUCTION:
 In our modern technology, we are being addicted to the smart technologies, even when we want to read academics or story books, we use laptops, tabs, mobiles or etc. Sometimes it causes many health problems and also very tough to keep full attention while reading pdf files. If all the readers can share their books in such a platform where the other readers can get a chance to read those available books according to their choices, it will be very effective for them.
 ![1637147288_158060_url](https://github.com/SweetysimA/Sharing-Books/assets/154395785/a6d1bbb8-02de-474a-b62e-558aca76baaa)
+
 
 <strong>"Sharing-Books" </strong> among the readers is such kind of a software project which one gives us a great opportunity to gather knowledge without paying any cost.
 
@@ -48,7 +14,7 @@ The development process of an iterative model is divided into small, repeatable 
 
 ![iterative-model-](https://github.com/SweetysimA/Sharing-Books/assets/154395785/c5e42806-8017-415b-96b4-e4f5bbd91a75)
 
-In an iterative model, the process starts with some of the software specifications and develops the first version of the software. After the first version, if there is a need to change the software, then a new version of the software is created with a new iteration. It will repeat until the deployment of the software.
+
 
 ## STEPS OF THE ITERATIVE MODEL
 
