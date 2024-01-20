@@ -76,6 +76,7 @@ Deploy the current iteration of the system to a testing environment or, if ready
 ## 10.Iteration Repeats:
 
 <strong>i.</strong> Each iteration builds upon the previous one, incorporating feedback and adding new features.
+
 <strong>ii.</strong>nEach iteration builds upon the previous one, incorporating feedback and adding new features.
 
 
