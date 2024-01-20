@@ -1,11 +1,10 @@
-![1637147288_158060_url](https://github.com/SweetysimA/Sharing-Books/assets/154395785/a6d1bbb8-02de-474a-b62e-558aca76baaa)
 
 # Sharing-Books
 ![Books share](https://github.com/SweetysimA/Sharing-Books/assets/154395785/259253b4-f4c7-497b-a3ea-e2908508121e)
 
 ## Hello Sir
 ![New cover photo_page-0001](https://github.com/SweetysimA/Sharing-Books/assets/154395785/965bb1a1-9440-4269-a0b1-3a43fb9e5b00)
-![Uploading 1637147288_158060_url.jpeg]()
+![1637147288_158060_url](https://github.com/SweetysimA/Sharing-Books/assets/154395785/a6d1bbb8-02de-474a-b62e-558aca76baaa)
 
 ## Introduction:
 In our modern technology, we are being addicted to the smart technologies, even when we want to read academics or story books, we use laptops, tabs, mobiles or etc. Sometimes it causes many health problems and also very tough to keep full attention while reading pdf files. If all the readers can share their books in such a platform where the other readers can get a chance to read those available books according to their choices, it will be very effective for them.
