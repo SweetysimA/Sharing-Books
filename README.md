@@ -12,11 +12,7 @@ In our modern technology, we are being addicted to the smart technologies, even 
 ## APPLIED SUITABLE SDLC MODEL:
 The development process of an iterative model is divided into small, repeatable cycles or iterations and each iteration includes phases such as planning, designing, building, and testing. As this model allows us to go back to the initial phases and see how the changes were made, <strong>Iterative Model</strong> could be the most suitable Software Development Life Cycle (SDLC) model for the <strong>"Book-Sharing"</strong> project. 
 
-![iterative-model-](https://github.com/SweetysimA/Sharing-Books/assets/154395785/c5e42806-8017-415b-96b4-e4f5bbd91a75)
-
 ![Iterative model](https://github.com/SweetysimA/Sharing-Books/assets/154395785/ec33d059-776b-404f-8784-51dc8a5e9477)
-
-
 
 
 ## STEPS OF THE ITERATIVE MODEL
