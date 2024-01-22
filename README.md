@@ -14,6 +14,9 @@ The development process of an iterative model is divided into small, repeatable 
 
 ![iterative-model-](https://github.com/SweetysimA/Sharing-Books/assets/154395785/c5e42806-8017-415b-96b4-e4f5bbd91a75)
 
+![Iterative model](https://github.com/SweetysimA/Sharing-Books/assets/154395785/ec33d059-776b-404f-8784-51dc8a5e9477)
+
+
 
 
 ## STEPS OF THE ITERATIVE MODEL
