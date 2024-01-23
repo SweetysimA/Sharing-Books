@@ -7,7 +7,7 @@ In our modern technology, we are being addicted to the smart technologies, even 
 ![1637147288_158060_url](https://github.com/SweetysimA/Sharing-Books/assets/154395785/a6d1bbb8-02de-474a-b62e-558aca76baaa)
 
 
-<strong>"Sharing-Books" </strong> among the readers is such kind of a software project which one gives us a great opportunity to gather knowledge without paying any cost.
+<strong>"An Open Library System by Sharing-Books" </strong> is such kind of a software project which one gives us a great opportunity to gather knowledge without paying any cost.
 
 ## APPLIED SUITABLE SDLC MODEL:
 The development process of an iterative model is divided into small, repeatable cycles or iterations and each iteration includes phases such as planning, designing, building, and testing. As this model allows us to go back to the initial phases and see how the changes were made, <strong>Iterative Model</strong> could be the most suitable Software Development Life Cycle (SDLC) model for the <strong>"Book-Sharing"</strong> project. 
