@@ -11,7 +11,7 @@ In our modern technology, we are being addicted to the smart technologies, even 
 <strong>"An Open Library System by Sharing-Books" </strong> is such kind of a software project which one gives us a great opportunity to gather knowledge without paying any cost.
 
 ## APPLIED SUITABLE SDLC MODEL:
-The development process of an iterative model is divided into small, repeatable cycles or iterations and each iteration includes phases such as planning, designing, building, and testing. As this model allows us to go back to the initial phases and see how the changes were made, <strong>Iterative Model</strong> could be the most suitable Software Development Life Cycle (SDLC) model for the <strong>"Book-Sharing"</strong> project. 
+The development process of an iterative model is divided into small, repeatable cycles or iterations and each iteration includes phases such as planning, designing, building, and testing. As this model allows us to go back to the initial phases and see how the changes were made, <strong>Iterative Model</strong> could be the most suitable Software Development Life Cycle (SDLC) model for the <strong>"An Open Library System by Sharing-Books"</strong> project. 
 
 ![Iterative model](https://github.com/SweetysimA/Sharing-Books/assets/154395785/ec33d059-776b-404f-8784-51dc8a5e9477)
 
@@ -73,14 +73,15 @@ Deploy the current iteration of the system to a testing environment or, if ready
 
 ## 10. Iteration Repeats:
 
-<strong>i.</strong> Each iteration builds upon the previous one, incorporating feedback and adding new features.
+<strong>i.</strong> Repeat the process for subsequent iterations, incorporating new features and improvements based on evolving requirements and user feedback
 
-<strong>ii.</strong> Each iteration builds upon the previous one, incorporating feedback and adding new features.
+<strong>ii.</strong> Continue the iterative cycle until the book-sharing platform meets the desired level of functionality and user satisfaction.
 
 
 ## CONCLUSION:
+Throughout the iterative model, collaboration and communication with stakeholders are crucial. Regular feedback loops ensure that the development team remains responsive to changing requirements and user needs, leading to a more robust and user-friendly book-sharing platform over time.
 
-In an iterative model, the cycle repeats until the project goals are achieved and stakeholders are satisfied with the product. Each iteration contributes to the overall improvement of the system, and feedback plays an effective and important role in guiding the development process.
+
 
 
 
