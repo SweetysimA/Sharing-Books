@@ -1,6 +1,7 @@
-# Sharing-Books
 
 ![cover photo](https://github.com/SweetysimA/Sharing-Books/assets/154395785/d390442d-e8c8-4b07-8af1-ff27a60da1b7)
+
+# An Open Library System by Sharing-Books
 
 ## INTRODUCTION:
 In our modern technology, we are being addicted to the smart technologies, even when we want to read academics or story books, we use laptops, tabs, mobiles or etc. Sometimes it causes many health problems and also very tough to keep full attention while reading pdf files. If all the readers can share their books in such a platform where the other readers can get a chance to read those available books according to their choices, it will be very effective for them.
