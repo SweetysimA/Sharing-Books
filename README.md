@@ -4,7 +4,8 @@
 # An Open Library System by Sharing-Books
 
 ## INTRODUCTION:
-In our modern technology, we are being addicted to the smart technologies, even when we want to read academics or story books, we use laptops, tabs, mobiles or etc. Sometimes it causes many health problems and also very tough to keep full attention while reading pdf files. If all the readers can share their books in such a platform where the other readers can get a chance to read those available books according to their choices, it will be very effective for them.
+At this period of modern science and technology, we are being addicted to the smart technologies day by day, even when we want to read our academic or story books, we use 
+i-pads,laptops, tablets, mobile phones, or etc. Sometimes it causes many health problems and also very tough to keep the full attention while reading pdf files. If all the readers can share their books in such a platform where the other readers can get a chance to read those available books according to their choices, it will be very effective for them.
 ![1637147288_158060_url](https://github.com/SweetysimA/Sharing-Books/assets/154395785/a6d1bbb8-02de-474a-b62e-558aca76baaa)
 
 
@@ -24,8 +25,7 @@ Here are the steps of an iterative model for sharing books among readers:
 
 ## 1. Identifying Requirements:
 
-<strong>i.</strong> Gathering initial requirements which may involve discussions with stakeholders,potential users,and 
- other relevant parties.
+<strong>i.</strong> Gathering initial requirements which may involve discussions with stakeholders,potential users,and other relevant parties.
      
 <strong>ii.</strong> Identifying the basic features such as user registration,book cataloging,search capabilities,user 
 reviews, and sharing options.
@@ -38,13 +38,16 @@ reviews, and sharing options.
 
 ## 3. Designing: 
 
-<strong>i.</strong> Desinging the architecture and user interface for sharing books.
+<strong>i.</strong> Designing the architecture and user interface for the identified features in the current iteration.  
+
+<strong>ii.</strong> Ensure that the design allows for future enhancements and integration with additional features.
 
 ![Books](https://github.com/SweetysimA/Sharing-Books/assets/154395785/35997fc3-3d98-4cef-896b-55f25cb3b201)
 
 
 ## 4. Implementation:
- Developing the functionalities outlined in the design phase.
+ <strong>i.</strong> Developing the functionalities outlined in the design phase.
+  <strong>ii.</strong> Following coding standards and best practices to maintain code quality.
 
 ## 5. Testing:
  Various levels, including unit testing, integration testing, and system testing.
@@ -70,9 +73,9 @@ Deploy the current iteration of the system to a testing environment or, if ready
 
 ## 9. Monitoring and Maintenance:
 
-<strong>i.</strong> Monitor the deployed system for any issues or performance concerns.
+<strong>i.</strong> Monitoring the performance of the deployed features and address any issues that may arise post-deployment.
 
-<strong>ii.</strong> Each iteration builds upon the previous one, incorporating feedback and adding new features.
+<strong>ii.</strong> Providing ongoing support and maintenance for the platform, addressing bugs, user feedback, and potential improvements.
 
 ## 10. Iteration Repeats:
 
@@ -82,7 +85,7 @@ Deploy the current iteration of the system to a testing environment or, if ready
 
 
 ## CONCLUSION:
-Throughout the iterative model, collaboration and communication with stakeholders are crucial. Regular feedback loops ensure that the development team remains responsive to changing requirements and user needs, leading to a more robust and user-friendly book-sharing platform over time.
+Throughout the iterative model, collaboration and communication with stakeholders are very important. Regular feedback loops ensure that the development team remains responsive to changing requirements and user needs, leading to a more robust and user-friendly book-sharing platform over time.
 
 
 
