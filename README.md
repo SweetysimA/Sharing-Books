@@ -40,6 +40,9 @@ reviews, and sharing options.
 
 <strong>i.</strong> Desinging the architecture and user interface for sharing books.
 
+![Books](https://github.com/SweetysimA/Sharing-Books/assets/154395785/35997fc3-3d98-4cef-896b-55f25cb3b201)
+
+
 ## 4. Implementation:
  Developing the functionalities outlined in the design phase.
 
